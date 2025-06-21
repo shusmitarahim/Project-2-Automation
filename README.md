@@ -1,5 +1,6 @@
 #Web Automation Assignment – WebdriverIO + Allure Report
-This project contains automated test cases using **WebdriverIO** for the login and order workflows based on three user types.The test scripts are written with reusability in mind using the Page Object Model.
+
+This project contains automated test cases using  WebdriverIO for the login and order workflows based on three user types.The test scripts are written with reusability in mind using the Page Object Model.
 
 
 All test scenarios can be executed separately or sequentially, and test results are generated with  Allure Reports.
