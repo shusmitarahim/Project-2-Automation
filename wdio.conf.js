@@ -27,7 +27,7 @@ exports.config = {
 
   specs: [lockedOutUser,standardUser,performanceGlitchUser,],
   suites: {
-    lockedOut_standardUser_glitchUser: [
+    lockedOutUser_standardUser_glitchUser: [
       [lockedOutUser, standardUser, performanceGlitchUser],
     ],
   },

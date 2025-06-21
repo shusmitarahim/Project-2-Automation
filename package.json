@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "wdio": "wdio run ./wdio.conf.js",
-    "lockedOut_standardUser_glitchUser": "wdio run ./wdio.conf.js --suite lockedOut_standardUser_glitchUser",
+    "lockedOutUser_standardUser_glitchUser": "wdio run ./wdio.conf.js --suite lockedOutUser_standardUser_glitchUser",
     "getReport": "allure generate --clean allure-results && allure open alllure-report"
   },
   "author": "shusmita",
